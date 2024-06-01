@@ -20,7 +20,7 @@ import org.apache.spark.ml.feature.{OneHotEncoder, StringIndexer, VectorAssemble
 import org.apache.spark.sql.types._
 import org.apache.spark.sql.{Encoder, Encoders}
 import org.apache.spark.sql.SparkSession
-import org.apache.spark.ml.classification.NaiveBayes
+import org.apache.spark.ml.classification.{LogisticRegression, NaiveBayes}
 import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
 import org.apache.spark.ml.tuning.{CrossValidator, ParamGridBuilder}
 
@@ -86,22 +86,22 @@ object project {
     val assembler1 = new VectorAssembler()
       .setInputCols(features1)
       .setOutputCol("features1")
-    val nb1 = new NaiveBayes()
+    val lr1 = new LogisticRegression()
       .setLabelCol("SD_quant")
       .setFeaturesCol("features1")
     val pipeline1 = new Pipeline()
-      .setStages(Array(assembler1, disorderToNum, nb1))
+      .setStages(Array(assembler1, disorderToNum, lr1))
 
     // Setup Model 2
     val features2 = Array("physicalActivity", "heartRate", "dailySteps")
     val assembler2 = new VectorAssembler()
       .setInputCols(features2)
       .setOutputCol("features2")
-    val nb2 = new NaiveBayes()
+    val lr2 = new LogisticRegression()
       .setLabelCol("SD_quant")
       .setFeaturesCol("features2")
     val pipeline2 = new Pipeline()
-      .setStages(Array(assembler2, disorderToNum, nb2))
+      .setStages(Array(assembler2, disorderToNum, lr2))
 
     // Setup Model 3
     val occupationIndexer = new StringIndexer()
@@ -115,23 +115,23 @@ object project {
     val assembler3 = new VectorAssembler()
       .setInputCols(features3)
       .setOutputCol("features3")
-    val nb3 = new NaiveBayes()
+    val lr3 = new LogisticRegression()
       .setLabelCol("SD_quant")
       .setFeaturesCol("features3")
     val pipeline3 = new Pipeline()
-      .setStages(Array(occupationIndexer, occupationEncoder, assembler3, disorderToNum, nb3))
+      .setStages(Array(occupationIndexer, occupationEncoder, assembler3, disorderToNum, lr3))
 
     // Define hyper-parameter grids for each model
     val paramGrid1 = new ParamGridBuilder()
-      .addGrid(nb1.smoothing, Array(0.0, 0.5, 1.0))
+      .addGrid(lr1.regParam, Array(0.0)) // Regularization parameter
       .build()
 
     val paramGrid2 = new ParamGridBuilder()
-      .addGrid(nb2.smoothing, Array(0.0, 0.5, 1.0))
+      .addGrid(lr2.regParam, Array(0.0)) // Regularization parameter
       .build()
 
     val paramGrid3 = new ParamGridBuilder()
-      .addGrid(nb3.smoothing, Array(0.0, 0.5, 1.0))
+      .addGrid(lr3.regParam, Array(0.0)) // Regularization parameter
       .build()
 
     // Define evaluator
