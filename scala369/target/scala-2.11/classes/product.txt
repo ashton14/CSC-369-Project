@@ -1,0 +1,101 @@
+0, womens collared stripe top - black, 488.89
+1, solid viscose womens top - black, 454.04
+2, printed regular fit rayon womens pants - mid blue, 47.60
+3, solid cotton full length womens joggers - blush, 778.33
+4, printed round neck polyester blend womens dress - blue, 88.43
+5, womens slim fit solid leggings - black, 634.68
+6, printed cotton regular neck womens t-shirt - white, 355.86
+7, unisex ascend eau de parfum 100ml, 52.84
+8, printed cowl neck polyester blend womens long dress - white, 544.30
+9, unisex ascend eau de parfum 100ml, 94.60
+10, printed polyester blend round neck womens short top - ecru, 531.66
+11, solid polyester cotton round neck womens formal wear shirt - black, 318.06
+12, mesh lace up womens sports shoes - blue, 910.65
+13, printed cotton hood womens dress - ink, 850.08
+14, solid cotton regular neck womens dress - off white, 745.88
+15, solid cotton high rise womens regular panty - acid wash, 837.88
+16, solid cotton round neck womens active wear t-shirt - lilac, 208.81
+17, regular fit calf length polyester blend womens fusion wear skirt - green, 806.12
+18, solid regular fit rayon womens formal wear trousers - navy, 453.99
+19, womens one shoulder printed top - multi, 692.28
+20, womens scoop neck lace top - dark brown, 962.70
+21, womens round neck solid top - blush, 449.75
+22, womens lace non padded non wired beginners bra - rose, 471.58
+23, womens sacred love edp floral perfume - 50 ml, 454.02
+24, printed cotton blend collar neck womens shirt blouse - yellow, 155.94
+25, womens collared stripe top - black, 945.13
+26, printed cotton regular neck womens t-shirt - turquoise, 146.88
+27, printed polyester round neck womens t-shirt - yellow, 898.78
+28, womens printed brief - navy, 972.92
+29, solid polyester blend womens active wear bralette - off white, 137.48
+30, womens notched lapel solid blazer - black, 125.46
+31, printed square neck rayon slub womens short top - turquoise, 913.32
+32, printed cotton regular neck womens t-shirt - grey melange, 654.31
+33, solid cotton round neck womens t-shirt - green, 314.03
+34, printed polyester knit womens sports bra - blue, 803.78
+35, printed square neck rayon blend womens long dress - blue, 668.09
+36, printed polyester v-neck womens top - navy, 909.65
+37, solid regular fit rayon womens formal wear trousers - maroon, 232.54
+38, printed skinny fit cotton blend womens active wear track pants - grey, 543.40
+39, solid polyester crew neck womens t-shirt - purple, 647.41
+40, solid polyester blend ankle length womens tights - dark grey, 198.57
+41, solid polyester round neck womens regular fit t-shirt - white, 92.65
+42, womens solid bikini briefs - natural, 766.81
+43, checks rayon mandarin womens dress - black mix, 17.44
+44, solid v-neck polyester womens fit and flare dress - grey, 917.20
+45, cotton regular fit womens activewear t-shirt - pink, 644.61
+46, printed regular fit polyester womens track pants - blue, 489.24
+47, printed cotton round neck womens active wear t-shirt - lilac, 90.52
+48, solid cotton stretch full length womens joggers - dusty pink, 940.21
+49, printed cotton round neck womens t-shirt - white, 278.23
+50, adilette comfort fabric low tops slipon unisex sport sandals - white, 826.17
+51, womens tie up neck striped top - blue, 895.72
+52, solid modal womens camisole - black, 889.04
+53, womens 3 pocket solid trousers - dark blue, 658.69
+54, mesh lace up womens sports shoes - stone, 833.29
+55, printed polyester knit womens sports bra - grey, 462.29
+56, synthetic slipon womens athleisure flats - white, 975.12
+57, non-wired regular strap non-padded womens everyday bra - black, 643.31
+58, solid polyester regular fit womens sports bra - grey, 320.97
+59, printed regular viscose blend womens active wear t-shirt - anthra melange, 791.46
+60, checks polyester regular fit womens trousers - teal, 839.20
+61, mens silver shade pourhomclassicdeodorant 200 ml, 863.90
+62, printed polyester fitted womens casual tights - red, 286.32
+63, solid polyester v-neck womens top - off white, 349.30
+64, solid regular fit polyester cotton womens active wear shorts - black, 745.03
+65, adilette comfort fabric low tops slipon unisex sport sandals - white, 456.12
+66, printed square neck rayon slub womens short top - turquoise, 429.71
+67, printed cotton regular neck womens top and shorts - anthra melange, 528.19
+68, solid polyester round neck womens t-shirt - black, 42.25
+69, cotton regular fit womens activewear t-shirt - navy, 92.62
+70, solid round neck polyester womens t-shirt - blue, 83.49
+71, regular fit womens protection face mask - light blue, 958.63
+72, printed cotton regular neck womens top and shorts - royal blue, 478.71
+73, synthetic slipon unisex slides - blue, 287.42
+74, striped fitted fit polyester womens track pants - black, 355.81
+75, solid polyester halter neck womens top - olive, 917.97
+76, solid polyester blend womens active wear bralette - black, 690.59
+77, printed polyester crew neck womens t-shirt - black, 112.25
+78, printed cotton v neck womens dress - ltgrey, 564.45
+79, printed cotton round neck womens t-shirt - orange, 785.10
+80, printed cotton round neck womens t-shirt - multi, 736.69
+81, solid polyester round neck womens t-shirt - black, 150.33
+82, solid crew neck polyester womens t-shirt - green, 149.95
+83, printed relaxed fit viscose blend womens active wear t-shirt - nude, 483.93
+84, solid polyester round neck womens dress - maroon, 564.96
+85, solid viscose round neck womens t-shirt - yellow, 31.43
+86, solid polyester blend ankle length womens tights - old rose, 366.49
+87, printed cotton round neck womens active wear t-shirt - anthra, 895.61
+88, womens solid t-shirt - peach, 729.66
+89, womens solid bikini briefs pack of 3 - off white, 986.56
+90, lace up womens sports shoes - pink, 665.82
+91, solid rayon regular fit womens casual pants - black, 96.26
+92, striped slim fit polyester womens shorts - grey, 929.67
+93, mens bastion onyx eau de parfum 100 ml, 946.46
+94, solid cotton round neck womens t-shirt - green, 936.62
+95, synthetic slipon womens athleisure slides - pink, 89.70
+96, womens collared solid shirt - black, 155.76
+97, solid cotton round neck womens t-shirt - pink, 122.59
+98, womens knee length skirt - dark blue, 619.29
+99, womens solid casual maxi dress - red, 93.94
+100, womens cold shoulder sleeves self pattern top - birch, 548.93
