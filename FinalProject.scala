@@ -43,7 +43,7 @@ case class Person(
                    sleepDisorder: String
                  )
 
-object project {
+object FinalProject {
   Logger.getLogger("org").setLevel(Level.OFF)
   Logger.getLogger("akka").setLevel(Level.OFF)
 
